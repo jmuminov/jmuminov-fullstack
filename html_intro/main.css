@@ -1,0 +1,11 @@
+#cool_text {
+    color:cornflowerblue
+}
+
+body {
+    background-color:blanchedalmond;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

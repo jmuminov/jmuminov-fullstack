@@ -1,0 +1,6 @@
+img {
+    width: 25%; /* ensures that each imagine is the same size, regardless of the source */
+    border-radius: 10px; /* adds borders to the image making the edges more round */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* adds shadow to the images */
+}
+
