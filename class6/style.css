@@ -35,3 +35,7 @@ img {
     margin: 5px;
     position: absolute;
 }
+
+.textColor {
+    color: rgb(15, 2, 97);
+}
