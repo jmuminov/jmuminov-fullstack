@@ -1,0 +1,12 @@
+let numCows = 50;
+let hello = `Hello world!`;
+console.log(hello);
+console.log("Hello " + "Disney world");
+let umbrellas = 10 * 3;
+let num = 5 + 1;
+console.log(num);
+console.log("Hello " + "Disney " + "World.");
+let greet = "Hello";
+let i = "I am";
+let name = "Josh";
+console.log(greet + " " + i + " " + name);
