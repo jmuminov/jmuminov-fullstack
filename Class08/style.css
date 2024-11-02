@@ -1,0 +1,74 @@
+.topnav {
+    background-color: rgb(91,36,66);
+    overflow: hidden;
+}
+.topnav a.active {
+    background-color: rgb(241,203,163);
+    color: rgb(85, 14, 14);
+}
+.topnav a:hover {
+    opacity: 0.7;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.bottomnav {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-bottom: 10px;
+}
+.fa {
+    padding: 12px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-instagram {
+    background: rgb(91,36,66);
+    color: white;
+}
+body {
+    background-color: rgb(116, 56, 14);
+}
+.indexH1 {
+    color: #f2f2f2;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.indexH2 {
+    color: #f2f2f2;
+    position: absolute;
+    left: 50%;
+    bottom: 10%;
+    transform: translateX(-50%);
+}
+.cover {
+    width: 40%;
+    padding-top: 5%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+table {
+    position: absolute;
+    padding-top: 8%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #f2f2f2;
+}
+td th {
+    border: 1px solid #dddddd;
+}
