@@ -1,0 +1,1 @@
+This is just a version 1 of the Chocolate Dips by Safina website. The overall end-goal is to build fully functional website where clients can go to make themselves familiar with the products and the pricing and can place orders online.
