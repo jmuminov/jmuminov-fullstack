@@ -42,25 +42,42 @@
 body {
     background-color: rgb(116, 56, 14);
 }
-.indexH1 {
+h1.top {
     color: #f2f2f2;
+    vertical-align: baseline;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
 }
-.indexH2 {
+h3.index {
     color: #f2f2f2;
     position: absolute;
     left: 50%;
     bottom: 10%;
     transform: translateX(-50%);
 }
-.cover {
-    width: 40%;
-    padding-top: 5%;
+/* h3.about {
+    color: #f2f2f2;
     position: absolute;
+    top: 10%;
+    left: 10%;
+    transform: translateX(-50%);
+} */
+p.about {
+    color: #f2f2f2;
+}
+h3.about {
+    padding-top: 60px;
+    color: #f2f2f2;
+}
+
+img.cover {
+    width: 40%;
+    position: absolute;
+    top: 10%;
     left: 50%;
     transform: translateX(-50%);
+    border-radius: 15%;
 }
 table {
     position: absolute;
@@ -69,6 +86,8 @@ table {
     transform: translateX(-50%);
     color: #f2f2f2;
 }
-td th {
+td, th {
     border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
 }
